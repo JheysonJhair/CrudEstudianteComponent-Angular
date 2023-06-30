@@ -1,27 +1,25 @@
-# StudentCrud
+## Programador - desarrollador web y diseñador UI/UX
+**Mr. Jheyson Jhair**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+## Crud de un Estudiante
+[![Header](https://nombre.vukki.net/significado/imagen/0-0-0-0-0/M/jhair.jpg "Header")]()
 
-## Development server
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
+[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2J7dPnURHc)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/JheysonJhair)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 👉 Descripción
+Proyecto que permite calcular el registro de una persona con sus funciones básicas de editar, eliminar, agregar y listar consumiendo servicio con un backend realizado en c#.
 
-## Code scaffolding
+## Instalación
+Este proyecto requiere de un backend.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Contratación
+Si quieres contratarme puedes escribirme  a jhair2003unamba@gmail.com para consultas.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📝 Elementos utilizados:
+- [HTML]
+- [CSS]
+- [SCSS]
+- [JS]
+- [TS]
