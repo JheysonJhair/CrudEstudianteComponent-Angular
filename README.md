@@ -1,25 +1,53 @@
-## Programador - desarrollador web y diseñador UI/UX
-**Mr. Jheyson Jhair**
+<div align="center">
+    <a href="https://github.com/JheysonJhair/FTcrud_student.git">
+      <img src="public/logo.jpg" width="148px" />
+    </a>
+    <h1>Crud - Estudiante</h1>
+    <p align="center">
+        Frontend Developer Jhair
+    </p>
+</div>
 
-## Crud de un Estudiante
-[![Header](https://nombre.vukki.net/significado/imagen/0-0-0-0-0/M/jhair.jpg "Header")]()
+## Preview
 
-[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jheyson_jhair_aa/)
-[![discord](https://img.shields.io/static/v1?label=&message=discord&color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/2J7dPnURHc)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/JheysonJhair)
+![Preview](public/preview.png)
 
-## 👉 Descripción
-Proyecto que permite calcular el registro de una persona con sus funciones básicas de editar, eliminar, agregar y listar consumiendo servicio con un backend realizado en c#.
 
-## Instalación
-Este proyecto requiere de un backend.
+## Tecnologías
 
-## Contratación
-Si quieres contratarme puedes escribirme  a jhair2003unamba@gmail.com para consultas.
+Este proyecto utiliza las siguientes tecnologías:
 
-## 📝 Elementos utilizados:
-- [HTML]
-- [CSS]
-- [SCSS]
-- [JS]
-- [TS]
+- Angular
+- Bootstrap CSS
+- BACKEND :
+```bash
+git clone https://github.com/JheysonJhair/BKcrud_student.git
+```
+
+## Cómo levantar el proyecto
+
+1. Clona el repositorio.
+
+```bash
+git clone https://github.com/JheysonJhair/FTcrud_student.git
+```
+
+```bash
+cd FTcrud_student
+```
+
+2. Instala las dependencias con `npm install`.
+
+```bash
+npm install
+```
+
+3. Ejecuta el comando `ng serve` para iniciar el servidor de desarrollo.
+
+```bash
+ng serve
+```
+
+4. Abre tu navegador y visita `http://localhost:4200/`.
+
+¡Listo! Ahora puedes comenzar a trabajar la aplicación sin problemas.
